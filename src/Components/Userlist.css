@@ -1,0 +1,30 @@
+body, html {
+    background-color: rgb(248, 160, 248);
+}
+
+.btn, table, .center {
+    margin: auto;
+    text-align: center;
+}
+
+table {
+    font-size: 1.2rem;
+    border: 2px groove purple;
+    margin-top: 5rem;
+}
+
+th {
+    background-color: #fff;
+    padding-left: 1rem;
+}
+
+td {
+    padding: 0.5rem;
+    font-size: 1rem;
+}
+
+td img {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+}
